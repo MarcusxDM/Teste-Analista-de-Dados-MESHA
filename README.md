@@ -23,7 +23,7 @@ Critérios avaliadas:
 
 ### Levantar Indicadores
 #### Responder às seguintes perguntas:
-1. Qual a escola com a maior média de notas?
+1. Qual a escola com a maior média de notas? (Aparentemente o campo com o identificador da escola não está presente na base de dados, tornei meu foco para UF-Município de aplicação da prova)
 2. Qual o aluno com a maior média de notas e o valor dessa média?
 3. Qual a média geral?
 4. Qual o % de Ausentes?
